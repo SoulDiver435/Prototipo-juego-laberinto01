@@ -1,0 +1,15 @@
+---GOALS---
+
+-HUD visual de la cantidad de cofres abiertos
+-Se abre el portal (conceptualmente, no visual) cuando se abren todos los cofres, y este es detectado x una variable.
+-El personaje no se mueve al mostrar mensaje
+-Se muestra la cantidad de cofres en el mensaje con Interpolacion de codigo
+-IMPLEMENTADO CONTROL TACTIL
+-Implementada interacción con cuadro de diálogo.
+-Movimiento x cuadricula.
+-Animaciones implementadas.
+-Movimiento y colisiones.
+-C/ Cofre Dibujado y con propiedades.
+-Cofres montados!
+-Interaccion con cofres
+-Walls Optimizadas.
